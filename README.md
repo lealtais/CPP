@@ -8,7 +8,7 @@ O curso aborda os conceitos fundamentais da linguagem C++, desde os princípios 
 ## Estrutura do Repositório
 - Cada diretório representa uma aula ou atividade específica.
 - Os arquivos estão organizados e comentados para facilitar a leitura e o entendimento.
-- Arquivos de conceitos téoricos para melhor aprenzizagem. 
+- Arquivos de conceitos téoricos para melhor aprendizagem. 
 
 ### Exemplos de Conteúdo:
 - Variáveis e Tipos de Dados
